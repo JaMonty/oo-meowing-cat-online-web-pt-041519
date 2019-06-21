@@ -9,7 +9,8 @@ class Cat
 end
 
 
-
+maru = cat.new
+maru.name = "Maru"
 
 
 
